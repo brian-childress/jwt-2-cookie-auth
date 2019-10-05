@@ -6,7 +6,7 @@ In this example application, we use 2 cookies in the browser to manage the trans
 
 [YouTube: JWT | 2 Cookie Auth](https://www.youtube.com/watch?v=gF9Yfi9HpzM)
 
-[![JWT | 2 Cookie Auth](images/jwt-2-cookie-auth.png))](https://www.youtube.com/watch?v=gF9Yfi9HpzM "JWT | 2 Cookie Auth")
+[![JWT | 2 Cookie Auth](images/jwt-2-cookie-auth.png))](https://www.youtube.com/watch?v=gF9Yfi9HpzM)
 
 ## Running the Server
 
