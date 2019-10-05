@@ -1,0 +1,24 @@
+{
+  "name": "2-cookie-jwt-auth",
+  "version": "1.0.0",
+  "description": "Example application using 2 cookies to manage passing a JSON Web Token (JWT) for user authorization",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "start:dev": "npm i -g nodemon && nodemon -L app.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cookie-parser": "^1.4.4",
+    "express": "^4.17.1",
+    "jsonwebtoken": "^8.5.1",
+    "nodemon": "^1.19.1"
+  },
+  "devDependencies": {
+    "eslint": "6.4.0",
+    "eslint-config-airbnb-base": "14.0.0",
+    "eslint-plugin-import": "2.18.2"
+  }
+}
